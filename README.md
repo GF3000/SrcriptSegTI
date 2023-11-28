@@ -8,6 +8,7 @@ Los scripts del Bloque 3 si funcionan:
 
 
 -criptoanalisis_cesar.py y criptoanalisis_vigenere.py: sirven para criptoanalizar un archivo.
+
 -chicudrado.py: calcula el chi-cuadrado de un archivo o una entrada de texto
 -graficas.py: muestra las frecuencias de aparaciones de letras de dos arhcivos diferentes. Sin interfaz (añadir archivos desde código)
 -preprocesador.py: elimina tildes y normaliza texto. Recibe arhcivo de origen y devuelve arhchivo destino
