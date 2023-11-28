@@ -22,12 +22,16 @@ Los scripts del Bloque 3 si funcionan:
 -pruebaEficiencia.py: arhcivo para probar numero de iteraciones y recursos consumidos de otro programa.
 
 Dentro de la carpeta OpenSSL-Hash:
+
+
 -cumpleaños.sh: Realiza un ataque hash aprovechando la paradoja del cumpleaños. Buusca que coincidan los dos primeros caracteres (se puede cambiar modificando el if de salida). Sin interfaz. Se cambian el texto generado en "texto_1" y "texto_2". 
 
 
 -efecto_avalancha.sh: Comprueba como funciona el efecto avalanzha en funciones hash. Con interfaz.
 
 Dentro de la carpeta OpenSSL-Cifrado:
+
+
 -asimetrico.sh: Interfaz que ayuda con un cifrado y descifrado asimetrico usando la libreria openssl
 
 
