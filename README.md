@@ -25,7 +25,6 @@ Los scripts del Bloque 3 si funcionan:
 
 ##Carpeta OpenSSL-Hash:
 
-
 -cumpleaños.sh: Realiza un ataque hash aprovechando la paradoja del cumpleaños. Buusca que coincidan los dos primeros caracteres (se puede cambiar modificando el if de salida). Sin interfaz. Se cambian el texto generado en "texto_1" y "texto_2". 
 
 
