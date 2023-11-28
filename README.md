@@ -5,6 +5,8 @@ Muchos scripts del Bloque 1 no funcionan.
 Los scripts del Bloque 3 si funcionan:
 
 -cesar.py y vigenere.py: sirven para cifrar y descrifrar archivos o entrada de texto. Ofrece la opción de guardar los archivos.
+
+
 -criptoanalisis_cesar.py y criptoanalisis_vigenere.py: sirven para criptoanalizar un archivo.
 -chicudrado.py: calcula el chi-cuadrado de un archivo o una entrada de texto
 -graficas.py: muestra las frecuencias de aparaciones de letras de dos arhcivos diferentes. Sin interfaz (añadir archivos desde código)
