@@ -4,7 +4,9 @@ Scripts muy útiles para la asginatura de Seguridad de las TI de 3ero de Ingenie
 Muchos scripts del Bloque 1 no funcionan.
 Los scripts del Bloque 3 si funcionan:
 
+
 ##Archivos sueltos
+
 
 -cesar.py y vigenere.py: sirven para cifrar y descrifrar archivos o entrada de texto. Ofrece la opción de guardar los archivos.
 
