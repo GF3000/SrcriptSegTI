@@ -4,6 +4,8 @@ Scripts muy útiles para la asginatura de Seguridad de las TI de 3ero de Ingenie
 Muchos scripts del Bloque 1 no funcionan.
 Los scripts del Bloque 3 si funcionan:
 
+##Archivos sueltos
+
 -cesar.py y vigenere.py: sirven para cifrar y descrifrar archivos o entrada de texto. Ofrece la opción de guardar los archivos.
 
 
@@ -21,7 +23,7 @@ Los scripts del Bloque 3 si funcionan:
 
 -pruebaEficiencia.py: arhcivo para probar numero de iteraciones y recursos consumidos de otro programa.
 
-Dentro de la carpeta OpenSSL-Hash:
+##Carpeta OpenSSL-Hash:
 
 
 -cumpleaños.sh: Realiza un ataque hash aprovechando la paradoja del cumpleaños. Buusca que coincidan los dos primeros caracteres (se puede cambiar modificando el if de salida). Sin interfaz. Se cambian el texto generado en "texto_1" y "texto_2". 
@@ -29,7 +31,7 @@ Dentro de la carpeta OpenSSL-Hash:
 
 -efecto_avalancha.sh: Comprueba como funciona el efecto avalanzha en funciones hash. Con interfaz.
 
-Dentro de la carpeta OpenSSL-Cifrado:
+##Carpeta OpenSSL-Cifrado:
 
 
 -asimetrico.sh: Interfaz que ayuda con un cifrado y descifrado asimetrico usando la libreria openssl
